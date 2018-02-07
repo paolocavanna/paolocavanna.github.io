@@ -1,2 +1,0 @@
-webpackJsonp([0],{KETy:function(t,e){},re3e:function(t,e,r){"use strict";var n={name:"LazyImage",props:{src:{type:String,required:!0},alt:{type:String,required:!0}},methods:{onLoad:function(t){t.currentTarget.classList.add("is-loaded")}}},a={render:function(){var t=this,e=t.$createElement;return(t._self._c||e)("img",{staticClass:"lazy-img",attrs:{src:t.src,alt:t.alt},on:{load:t.onLoad}})},staticRenderFns:[]};var s=r("VU/8")(n,a,!1,function(t){r("KETy")},null,null);e.a=s.exports}});
-//# sourceMappingURL=0.b8fe4c27c40bfabdd4b1.js.map
