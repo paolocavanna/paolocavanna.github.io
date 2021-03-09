@@ -1,0 +1,16 @@
+﻿/* TEAM */
+	Design and development: Paolo Cavanna
+	Contact: info [at] paolocavanna.it
+	Twitter: @PaoloCavanna
+	From: Torino, Italy
+
+/* THANKS */	
+	Copy tips and content review: Alessandro Mese
+	Twitter: @alexmese
+	From: Brighton, UK
+
+/* SITE */
+	Last update:2020/05/12
+	Language:English
+	Doctype:HTML5
+	IDE: VSCode
