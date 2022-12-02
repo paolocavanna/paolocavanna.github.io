@@ -9,6 +9,7 @@ html {
     -ms-touch-action: manipulation;
     touch-action: manipulation;
     min-height: 100vh;
+    scroll-behavior: smooth;
   }
   
   body {
